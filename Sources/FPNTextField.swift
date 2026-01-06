@@ -7,6 +7,9 @@
 //
 
 import UIKit
+import NBPhoneNumberUtil
+import NBPhoneNumber
+import NBAsYouTypeFormatter
 
 open class FPNTextField: UITextField {
 
